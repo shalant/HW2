@@ -5,7 +5,7 @@
 ## Technologies Used:
 ### HTML, CSS, Javascript
 
-![demo GIF](/images/portfolio.gif)
+![demo GIF](images/portfolio.gif)
 
 ## Description:
 ### This portfolio shows a snapshot of where I was at the beginning of this bootcamp: still identifying as a musician and getting acclimated to gaining a new identity as a coder. I used some pictures from my music career and of my family.
